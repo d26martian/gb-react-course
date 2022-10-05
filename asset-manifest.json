@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1cbbe93.css",
-    "main.js": "/static/js/main.1afa5518.js",
-    "index.html": "/index.html",
-    "main.c1cbbe93.css.map": "/static/css/main.c1cbbe93.css.map",
-    "main.1afa5518.js.map": "/static/js/main.1afa5518.js.map"
+    "main.css": "/gb-react-course/static/css/main.c1cbbe93.css",
+    "main.js": "/gb-react-course/static/js/main.1afa5518.js",
+    "index.html": "/gb-react-course/index.html",
+    "main.c1cbbe93.css.map": "/gb-react-course/static/css/main.c1cbbe93.css.map",
+    "main.1afa5518.js.map": "/gb-react-course/static/js/main.1afa5518.js.map"
   },
   "entrypoints": [
     "static/css/main.c1cbbe93.css",
